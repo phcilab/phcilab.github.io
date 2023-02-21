@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Phci Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Phci Lab at Northwestern Polytechnical University."
 sitemap: false
 permalink: /
 ---
