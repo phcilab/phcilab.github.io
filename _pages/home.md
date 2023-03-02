@@ -6,7 +6,15 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+We are a dynamic research group focuses on challenging problems such as natural and efficient information exchange between human-computer and object, human-computer heterogeneous intelligent collaboration in the pervasive computing environment, creating theoretical methods, and building technology platform. The research includes:
+
+❖ Interaction intention understanding (input method, wearable interaction, sensing, universal health monitoring).
+
+❖Interaction path optimization (interface semantic understanding, AIoT situational awareness, information accessibility, natural interactive operating system).
+
+❖Human-computer hybrid intelligence enhancement (multi-modal information understanding and generation, emotional computing and digital virtual human, robot interaction, human-computer collaborative decision-making).
+
+The team has undertaken a number of projects such as national key R&D plan and key projects of Natural Science Foundation. At the same time, it has established joint laboratories with leading enterprises. In recent years (2016-) the number of papers in top conferences/venues of human-computer interaction has ranked the first in the world in the field of CS Rankings, and the technological achievements with excellent performance have been used on more than 700 million intelligent terminals. The scientific research achievements of the laboratory have won the second prize of the national scientific and technological progress award twice.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
