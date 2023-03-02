@@ -1,7 +1,7 @@
 ---
-title: "Phci Lab - Home"
+title: "PHCI Lab - Home"
 layout: homelay
-excerpt: "Phci Lab at Northwestern Polytechnical University."
+excerpt: "PHCI Lab at Northwestern Polytechnical University."
 sitemap: false
 permalink: /
 ---
@@ -37,7 +37,7 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
-        </div>       
+        </div>
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 6" />
         </div>
