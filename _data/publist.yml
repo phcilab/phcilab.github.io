@@ -1,39 +1,39 @@
-- title: "Determination of the charge transfer when tunneling into putative Majorana modes in individual vortices in FeTe0.55Se0.045"
-  image: imageaward_edited.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
-  authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP PHCI
+- title: "Dynamic Multi-Task Learning for Face Recognition with Facial Expression"
+  image: multi-task_learning_for_face_recognition.jpg
+  description: We demonstrate our approach for face recognition with facial expression and facial expression recognition from a single input image based on a deep multi-task learning Conventional Neural Networks (CNNs). Both the theoretical analysis and the experimental results demonstrate the effectiveness of the proposed dynamic multi-task learning method. This multi-task learning with dynamic weights also boosts of the performance on the different tasks comparing to the state-of-art methods with single-task learning.
+  authors: Zuheng Ming, Junshi Xia, Muhammad Muzzamil Luqman, Jean-Christophe Burie, Kaixing Zhao
   link:
-    url: https://arxiv.org/abs/2205.10346
-    display: arXiv:2205.10346 (2022)
+    url: https://arxiv.org/pdf/1911.03281
+    display: arXiv:1911.03281
   highlight: 1
 
-- title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
-  image: BSCCOgap.png
-  description: Why do cuprate superconductors stop superconducting past a certain doping level? Using scanning tunneling spectroscopy we find that an emerging metallic matrix inside the superconducting state is responsible for the overall reduction of Tc and the superfluid density, while leaving the gapsize unchanged. The formation of the matrix is tied to a pair breaking process violating a core principle of mean-field theories.
-  authors: WO Tromp, T Benschop, J-F Ge, I Battisti, KM Bastiaans, D Chatzopoulos, A Vervloet, S Smit, E van Heumen, MS Golden, Y Huang, T Kondo, Y Yin, JE Hoffman, MA Sulangi, J Zaanen, MP PHCI
+- title: "Ready, steady, touch! sensing physical contact with a finger-mounted IMU"
+  image: Finger-MountedIMU.png
+  description: Studies show that a single nail-mountedIMU on the index finger provides sufficient data to train a binary touch status classifier (i.e., touch vs. no-touch), with an accuracy above 95%, generalised across users. This model, trained on a rigid tabletop surface, was found to retain an average accuracy of 96% for 7 other types of everyday surfaces with varying rigidity, and in walking and sitting scenarios where no touch occurred. ActualTouch can be combined with other interaction techniques, such as in a uni-stroke gesture recogniseron arbitrary surfaces, where touch status from ActualTouch is used to delimit the motion gesture data that feed into there cogniser. We demonstrate the potential of ActualTouch in a range of scenarios, such as interaction for augmented reality applications, and leveraging daily surfaces and objects for ad-hoc interactions.
+  authors: Yilei Shi, Haimo Zhang, Kaixing Zhao, Jiashuo Cao, Mengmeng Sun, Suranga Nanayakkara
   link:
-    url: https://arxiv.org/abs/2205.09740
-    display: arXiv:2205.09740 (2022)
+    url: https://www.researchgate.net/profile/Yilei-Shi-2/publication/342193185_Ready_Steady_Touch_Sensing_Physical_Contact_with_a_Finger-Mounted_IMU/links/5ee8a578458515814a629eb9/Ready-Steady-Touch-Sensing-Physical-Contact-with-a-Finger-Mounted-IMU.pdf
+    display: researchgate.net
   highlight: 1
 
-- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
-  image: Pairs3.png
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP PHCI
+- title: "VibHand: On-Hand Vibrotactile Interface Enhancing Non-Visual Exploration of Digital Graphics"
+  image: VibHand.png
+  description: Visual graphics are widely spread in digital media and are useful in many contexts of daily life. However, access to this type of graphical information remains a challenging task for people with visual impairments (VI). In this study, we designed and evaluated an on-hand vibrotactile interface that enables users with VI to explore digital graphics presented on tablets. We first conducted a set of exploratory tests with both people with VI and blindfolded (BF) people to investigate several design factors. We then conducted a comparative experiment to verify that on-hand vibrotactile cues (indicating direction and progression) can enhance the non-visual exploration of digital graphics. The results based on 12 participants with VI and 12 BF participants confirmed the usability of the technique and revealed that the visual status of the users does not impact graphics identification and comparison tasks.
+  authors: Kaixing Zhao, Marcos Serrano, Bernard Oriola, Christophe Jouffrais
   link:
-    url: https://www.science.org/doi/10.1126/science.abe3987
-    display: Science 374, 608 (2021)
+    url: https://hal.science/hal-02964264/document
+    display: hal-02964264
   highlight: 1
-  news1:   <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Featured as 'Research Highlight' in Nature Physics by David Abergel</a>
-  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
+  # news1:   <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Featured as 'Research Highlight' in Nature Physics by David Abergel</a>
+  # news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
 
-- title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
+- title: "FaceLiveNet+: A Holistic Networks For Face Authentication Based On Dynamic Multi-task Convolutional Neural Networks"
   image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  description: This paper proposes a holistic multi-task Convolutional Neural Networks (CNNs) with the dynamic weights of the tasks, namely FaceLiveNet+, for face authentication. FaceLiveNet+ can employ face verification and facial expression recognition as a solution of liveness control simultaneously. Comparing to the single-task learning, the proposed multi-task learning can better capture the feature representation for all of the tasks. The experimental results show the superiority of the multi-task learning to the single-task learning for both the face verification task and facial expression recognition task. Rather using a conventional multi-task learning with fixed weights for the tasks, this work proposes a so called dynamic-weight-unit to automatically learn the weights of the tasks. The experiments have shown the effectiveness of the dynamic weights for training the networks. Finally, the holistic evaluation for face authentication based on the proposed protocol has shown the feasibility to apply the FaceLiveNet+ for face authentication.
   authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP PHCI, SJ van der Molen
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  arXiv:2107.14716 (2021)
+    url: https://arxiv.org/pdf/1902.11179
+    display:  arXiv:1902.11179
   highlight: 0
   news2:
 

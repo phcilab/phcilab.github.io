@@ -72,30 +72,30 @@
   education1: Leidse instrumentmakers School
   education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
 
-- name: Hugo van Bohemen
-  photo: hugo.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: h.s.m.van.bohemen@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Leidse Instrumentmakers School
-  education2:
+# - name: Hugo van Bohemen
+#   photo: hugo.jpg
+#   info: Fine mechanical engineer (also associated with the FMD)
+#   email: h.s.m.van.bohemen@physics.leidenuniv.nl
+#   number_educ: 1
+#   education1: Leidse Instrumentmakers School
+#   education2:
 
-- name: Koen M Bastiaans
-  photo: Koen.jpg
-  info: NWO Veni fellow, collaborating with us and stationed in the <a href="https://ottelab.tudelft.nl">Otte Lab</a>
-  email: Bastiaans@Physics.LeidenUniv.nl
-  number_educ: 4
-  education1: Postdoc in the Otte Lab, Leiden University
-  education2: Postdoc in the PHCI Lab, Leiden University
-  education3: PhD with Milan PHCI, Leiden University (started Sep 2015)
-  education4: Master Leiden University with Milan PHCI
+# - name: Koen M Bastiaans
+#   photo: Koen.jpg
+#   info: NWO Veni fellow, collaborating with us and stationed in the <a href="https://ottelab.tudelft.nl">Otte Lab</a>
+#   email: Bastiaans@Physics.LeidenUniv.nl
+#   number_educ: 4
+#   education1: Postdoc in the Otte Lab, Leiden University
+#   education2: Postdoc in the PHCI Lab, Leiden University
+#   education3: PhD with Milan PHCI, Leiden University (started Sep 2015)
+#   education4: Master Leiden University with Milan PHCI
 
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.PHCIlab.org/vacancies">openings</a> for more info
-  email: milan.PHCI@gmail.com
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+# - name: "This could be you !"
+#   photo: rock.jpg
+#   info: See <a href="http://www.PHCIlab.org/vacancies">openings</a> for more info
+#   email: milan.PHCI@gmail.com
+#   number_educ: 0
+#   education1:
+#   education2:
+#   education3:
+#   education4:

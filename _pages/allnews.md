@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "PHCI Lab at Leiden University."
+excerpt: "PHCI Lab at NWPU."
 sitemap: false
 permalink: /allnews.html
 ---

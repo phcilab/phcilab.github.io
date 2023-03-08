@@ -45,8 +45,3 @@ You can use this template as you please. You don't have to link to us or mention
 Comments welcome.
 
 Code released under the MIT License.
-
-
-
-
-test
